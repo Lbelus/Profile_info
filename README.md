@@ -43,3 +43,19 @@ Microsoft Word itself can open Markdown files and save them as `.docx`.
 1. Open Microsoft Word.
 2. Go to `File` > `Open` and select your `.md` file.
 3. Once the file is open, go to `File` > `Save As` and choose the `.docx` format.
+
+
+### Troubleshoot
+
+If the lists are unordered: 
+
+You can use pandoc -t native to see how pandoc is parsing this. 
+You'll see that the list is not parsed as a list. Why not? 
+Well, pandoc's markdown requires a blank line before a list, to avoid false positives on lists (e.g. when a number followed by a period gets wrapped to the beginning of a line -- there was actually a test case like this in the original Markdown.pl test suite).
+This requirement used to be common (following original Markdown.pl), but now that commonmark has allowed omitting the space, it is less common. See babelmark.
+Anyway, the solution for you is to use ``-f commonmark`` or ``-f gfm`` or ``-f commonmark_x`` instead of the default ``-f markdown``.
+
+Example:
+```bash
+pandoc -f commonmark FR_dossier_competence.md -o FR_dossier_competence.docx
+```

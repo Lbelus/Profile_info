@@ -129,7 +129,7 @@ Intervention au sein de la direction des grands projets pour ORANO sur le site d
 - Suivi des évolutions de coûts et des avancements.
 - Suivi de la facturation fournisseurs.
 - Coordination avec 14 cost controller. 
-- Revue de projets
+- Revue de projets.
 
 **Environnement technique :**
 SAP MM/FI/PS, Pack office, VBA
@@ -142,13 +142,13 @@ Janvier 2021 à septembre 2021 (9 mois)
 Création d’une entreprise en franchise de type SAS avec pour objectif un CA à 1300k€ et un RN à 8%.
 
 **Tâches effectuées :**
- - Négociation achat d’une entreprise avec étude des résultats financiers et analyse des actifs organisationnels.
- - Étude make or buy : choix de la méthode d’insertion au sein du réseau par l’achat d’une entreprise existante ou par la création. Sélection : création.
- - Reprise des éléments du franchiseur pour élaboration du business model et travail en collaboration avec un cabinet d’expertise comptable pour création d’un prévisionnel financier.
- - Établissement d’un business plan (analyse marketing, étude de la zone de chalandise, éléments financiers, stratégie d’implantation).
+- Négociation achat d’une entreprise avec étude des résultats financiers et analyse des actifs organisationnels.
+- Étude make or buy : choix de la méthode d’insertion au sein du réseau par l’achat d’une entreprise existante ou par la création. Sélection : création.
+- Reprise des éléments du franchiseur pour élaboration du business model et travail en collaboration avec un cabinet d’expertise comptable pour création d’un prévisionnel financier.
+- Établissement d’un business plan (analyse marketing, étude de la zone de chalandise, éléments financiers, stratégie d’implantation).
 - Recherche de financement, contact avec partenaires sociaux (CMA/CCI).
- - Négociations pour prise de bail.
- - Sourcing fournisseur et développement du réseau de l’entreprise (prospects, partenaires, experts, établissements bancaires).
+- Négociations pour prise de bail.
+- Sourcing fournisseur et développement du réseau de l’entreprise (prospects, partenaires, experts, établissements bancaires).
 
 
 **Environnement technique :**
@@ -211,8 +211,8 @@ Août 2013 à août 2017 (4 ans et 1 mois)
 Service achats - Projet transverse - Key user SAP MM & support SAP
 
 **Tâches effectuées :**
-- Contrathèque
-- Outils transverses ADA & Dir. Achat
+- Contrathèque.
+- Outils transverses ADA & Dir. Achat.
 - Création d’outils décisionnels & KPI.
 - Revue de budget en relation avec le contrôle de gestion.
 - Garant de la bonne pratique & des processus.
@@ -286,17 +286,18 @@ Réalisation de 15 projets en plus d'exercices de codage aux normes de la Silico
 ### Compétences Techniques
 
 **Langages de Programmation :**
-- Python
+
 - C
-- ASM
-- Bash
-- TypeScript
-- VBA
-- JavaScript
 - C++
 - Rust
+- ASM
 - Ruby
+- Lua
+- Bash
+- Python
+- VBA
 - DAX
+- JavaScript/TypeScript
 
 **Outils :**
 - Git
