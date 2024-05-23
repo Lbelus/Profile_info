@@ -77,9 +77,6 @@ FCE
 **Woolf University, Qwasar College**  
 Master of Science - MS, Computer Science
 
-**PMI**  
-CAPM
-
 **Groupe IGS - ESAM - Paris**  
 Master 1 : Responsable en Gestion et Développement d’Entreprise
 
@@ -223,8 +220,7 @@ Service achats - Projet transverse - Key user SAP MM & support SAP.
 **Tâches effectuées :**
 - Repositionnement de la connaissance SAP.
     - Rédaction des processus et mode opératoire.
-    - Repositionnement au niveau des autres entités du groupe lors de réunions.
-    - Accompagnement des liales lors du déploiement en tant que key user SAP, MM, FI, et Bi4.
+    - Accompagnement des filiales lors du déploiement en tant que key user SAP, MM, FI, et Bi4.
     - Montée de version sous BusinessObjects 4.0 (Bi4).
 
  - Rédaction du cahier des charges.
@@ -268,11 +264,11 @@ Service achats - Projet transverse - Key user SAP MM & support SAP.
     - Rédaction de mise-à-jour « modus operandi ».
     - Automatisation des processus.
     - Suppression des tâches ne présentant pas de valeur ajoutée.
-    - Organisation des reprises de périmètre et de rationalisation des fournisseurs lors des fusions-acquisitions (1 à 2 par an).
 
+- Organisation des reprises de périmètre et de rationalisation des fournisseurs lors des fusions-acquisitions (1 à 2 par an).
 - Coordination entres service.
-    - Maîtrise des données liées au parc fournisseur.
-    - Participation aux recrutements & à la formation des collaborateurs entrants.
+- Maîtrise des données liées au parc fournisseur.
+- Participation aux recrutements & à la formation des collaborateurs entrants.
 
 **Environnement technique :**
 Excel, BI4, PowerBI, HTML, VBA, SharePoint, Visio, Pack Office
@@ -311,6 +307,9 @@ Excel, Pack Office, Access
 ---
 
 ### Certifications
+
+**PMI**  
+CAPM
 
 **Software Engineering**  
 12/2023  

@@ -1,22 +1,22 @@
 
 ---
 
-**Lorris**
+**Lorris**  
 **PMO / Software Engineer**  
 *C++ | C | Rust | Ruby | Python*
 
 ---
 
-### About me
+### About Me
 
 Diligent and motivated, with a solid background in developing decision-making and operational tools, as well as managing budgets exceeding 300 million euros per year, I am eager to join a dynamic team in a PMO / software engineer role to share and enhance my passion for software development and project management.
 
 ---
 
-### Experiences summary
+### Experiences Summary
 
 **Qwasar Silicon Valley**  
-*Teachers Assistant in Software Engineering*  
+*Teacher's Assistant in Software Engineering*  
 May 2022 - Apr 2024 (2 years)
 
 **RHAPSODY - PORTAGE SALARIAL**  
@@ -25,23 +25,23 @@ Oct 2022 - Dec 2022 (3 months)
 
 **AMARIS ENERGIE**  
 *Project Management Consultant - PMO*  
-Dec 2021 - May 2022  (6 months)
+Dec 2021 - May 2022 (6 months)
 
 **CFPC**  
 *Entrepreneur*  
 Jan 2021 - Sep 2021 (9 months)
 
-**SCALIAN pour SAFRAN AIRCRAFT ENGINES**  
+**SCALIAN for SAFRAN AIRCRAFT ENGINES**  
 *Project Management Consultant - PMO*  
-Apr 2019 - Nov 2019 · (9 months)
+Apr 2019 - Nov 2019 (9 months)
 
-**ALTEN SA & Filiales (siège)**  
+**ALTEN SA & subsidiaries (headquarter)**  
 *Project Manager Assistant*  
-Aug 2017 - Jun 2018 (1 an et 1 months)
+Aug 2017 - Jun 2018 (11 months)
 
-**ALTEN SA & Filiales (siège)**  
-*Purchasing Administrator, Tools & Process*  
-Nov 2013 - Aug 2017  (3 years et 10 months)
+**ALTEN SA & subsidiaries (headquarter)**  
+*Purchasing Administrator, Tools & Processes*  
+Nov 2013 - Aug 2017 (3 years and 10 months)
 
 **Raffinerie Total de Donges via Expectra**  
 *Planner Assistant*  
@@ -49,23 +49,23 @@ Feb 2013 - May 2013 (4 months)
 
 **Salorges Enchère**  
 *Auction House Employee*  
-Aug 2012 - 2013 (6 months)
+Aug 2012 - Jan 2013 (6 months)
 
 ---
 
 ### Skills
 
+**Advanced Programming and Development:**  
+Proficient in languages like C++, C, Rust, ASM, Ruby, Python, JavaScript, and TypeScript. Developed complex projects demonstrating a deep understanding of low-level programming and system operations, including personal projects like a Redis client/server, FTP server, custom implementations of common utilities (malloc, curl, zsh, readline, tar, ls), and a Ruby-based SQLite.
+
 **Comprehensive Tool and Technology Mastery:**  
-Skilled in using a wide range of tools and technologies, including CMake, Make, Google Test, Docker, and Nginx for development and deployment. Proficient in SAP modules (PS, MM, FI), Business Object 4.0, and PowerBI with DAX, to handle enterprise-level data and project management.
+Skilled in using a wide range of tools and technologies, including CMake, Make, Google Test, Docker, and Nginx for development and deployment. Proficient in SAP modules (PS, MM, FI), Business Object 4.0, and Power BI with DAX to handle enterprise-level data and project management.
 
 **Project Management and Process Optimization:**  
-Experienced in using Visio, MSP, Planisware, PowerApps, SharePoint, and Microsoft Flow for project management and process optimization. To develop and maintain complex systems as well as train teams
+Experienced in using Visio, MSP, Planisware, PowerApps, SharePoint, and Microsoft Flow for project management and process optimization. Able to develop and maintain complex systems as well as train teams.
 
 **Project Management and Financial Analysis:**  
-Expertise in leading teams to develop high-value budgets, creating and maintaining advanced financial tools using VBA and Power BI, and conducting comprehensive financial analyses including EVM, load/capacity, and variance analyses
-
-**Advanced Programming and Development:**  
-Proficient in languages like C++, C, Rust, asm, Ruby, Python, JavaScript, and TypeScript. Developed complex projects demonstrating deep understanding of low-level programming and system operations, including personal projects like a Redis client/server, FTP server, custom implementations of common utilities (malloc, curl, zsh, readline, tar, ls), and a Ruby-based sqlite.
+Expertise in leading teams to develop high-value budgets, creating and maintaining advanced financial tools using VBA and Power BI, and conducting comprehensive financial analyses including EVM, load/capacity, and variance analyses.
 
 ---
 
@@ -77,9 +77,6 @@ FCE
 **Woolf University, Qwasar College**  
 Master of Science - MS, Computer Science
 
-**PMI**  
-CAPM
-
 **Groupe IGS - ESAM - Paris**  
 Master 1: Business Management and Development
 
@@ -90,210 +87,251 @@ Master 2: Project Management & Business Engineering
 
 ### Experiences
 
-#### Teachers Assistant in Software Engineering
+#### Teacher's Assistant in Software Engineering
 **Qwasar Silicon Valley (remote USA)**  
 May 2022 - Apr 2024 (2 years)
 
-**Tasks and responsibilities:**
-- Lead small group classes on algorithms and data structures, providing guidance to students in C++, C, ruby, python, and JavaScript/TypeScript.
-- Reviewed and provided valuable feedback on students' projects, fostering their growth and development.
+**Tasks and Responsibilities:**
+- Led small group classes on algorithms and data structures, providing guidance to students in C++, C, Ruby, Python, and JavaScript/TypeScript.
+- Reviewed and provided valuable feedback on students' projects.
 - Offered assistance and training to fellow students, fostering a collaborative learning environment.
 
-**Technical environment:**
+**Technical Environment:**  
 C++, C, Rust, ASM, Ruby, Python, JavaScript/TypeScript, Linux, Makefile, CMake, Google Tests
 
 #### Independent Consultant
 **RHAPSODY - PORTAGE SALARIAL**  
 Oct 2022 - Dec 2022 (3 months)
 
-**Context:**
-Short term contract.
+**Context:**  
+Short-term contract.
 
-**Tasks and responsibilities:**
+**Tasks and Responsibilities:**
 - Performed an analysis of balance sheets over a 5-year period.
 - Developed a reporting tool using government data (from 2017 to 2021) with Bash scripting and BI tools.
 - Created initial planning (t0) for an internal project.
 
-**Technical environment:**
+**Technical Environment:**  
 Linux, Bash, Google Workspace
 
 #### Project Management Consultant - PMO
 **AMARIS ENERGIE**  
-Dec 2021 - May 2022  (6 months)
+Dec 2021 - May 2022 (6 months)
 
-**Context:**
+**Context:**  
 Economic Performance Division of ORANO / PMO (€300 million/year):
 
-**Tasks and responsibilities:**
+**Tasks and Responsibilities:**
 - Maintained legacy tools and dashboards.
 - Tutored project teams on best practices.
 - Performed project reviews.
 - Managed contract bases and supplier relationships.
-- Coordination with 14 costs controlers.
+- Coordinated with 14 cost controllers.
 
-**Technical environment:**
-SAP MM/FI/PS, Pack office, VBA
+**Technical Environment:**  
+SAP MM/FI/PS, Pack Office, VBA
 
 #### Entrepreneur
 **CFPC**  
-Janvier 2021 à septembre 2021 (9 months)
+Jan 2021 - Sep 2021 (9 months)
 
-**Context:**
+**Context:**  
 Creating a company via franchise (Sales objectives €1,300k, 10 employees)
 
-**Tasks and responsibilities:**
-
-- Negotiation toward buying a preexisting company. Financial result and organizational asset analysis.
-- Make or buy analysis to decide the best method to join the franchise network. Decision.
-- Analyzed franchise elements and data to reproduce the business model structure.
-- Business model used to create a financial forecast in collaboration with an accountant cabinet.
+**Tasks and Responsibilities:**
+- Negotiated the purchase of a preexisting company, analyzed financial results and organizational assets.
+- Conducted make-or-buy analysis to decide the best method to join the franchise network. Decision made.
+- Analyzed franchise elements and data to replicate the business model structure.
+- Used the business model to create a financial forecast in collaboration with an accounting firm.
 - Established a business plan (marketing analysis, trade area, financial data, general strategy).
-- Sought investors, exchanged with social partners (CMA/CCI).
-- Negotiated office lease contract.
-- Supplier sourcing and network development.
+- Sought investors, and communicated with social partners (CMA/CCI).
+- Negotiated an office lease contract.
+- Sourced suppliers and developed the network.
 
-
-**Technical environment:**
-Pack Office, CRM, BTP 
+**Technical Environment:**  
+Pack Office, CRM, BTP
 
 #### Project Management Consultant - PMO
-**SCALIAN pour SAFRAN AIRCRAFT ENGINES**  
-Mars 2019 à novembre 2019 (9 months)
+**SCALIAN for SAFRAN AIRCRAFT ENGINES**  
+Apr 2019 - Nov 2019 (9 months)
 
-**Context:**
-Propulsive System design office (600 people, €120M)
+**Context:**  
+Propulsive System Design Office (600 people, €120M)
 
-**Tasks and responsibilities:**
-- Established Mid-Term Plan in collaboration with the financial department, the technical Brand, and the operational planning team.
-- Created reporting & dashboard, Load Vs Capacity by department, Expense classes, project
-- Converting data into a usable format for the financial department.
-- Formalized document used to lead the operational teams in their budget creation process
-- Involved in the deployment of Planisware in collaboration with the central PMO services.
-- Supported the Design office departments in their daily activities by setting up regular workshops to let team managers appropriate Planisware and its functionalities step-by step.
-- Implemented training support & coaching for PMI certification.
-- Technical & financial follow-up:
-    - KPI follow-up, database check, correction & maintenance.
-    - Communication to department and services manager.
-    - Dashboard: Major KPI gathering used to follow-up every service on a wide scope.
-    - Procurement: cost attribution, engaged and received PO check-up.
-    - Technical and Financial Mapping.
-    - Estimate at Completion.
-    - Mid-Term Plan.
-    - Non-Recurring Cost.
-    - Gate adherence.
-- Created & Documented an improvement plan regarding PMO process.
-- Helped and gave support to the Work Package managers in their daily activities.
-- Realizing Work under the customer's need.
-- Load & feasibility analysis.
+**Tasks and Responsibilities:**
+- Established Mid-Term Plan in collaboration with the financial department, the technical brand, and the operational planning team.
+- Created reporting and dashboards, Load Vs Capacity by department, Expense classes, projects.
+- Converted data into a usable format for the financial department.
+- Formalized documents to guide operational teams in their budget creation process.
+- Assisted in the deployment of Planisware in collaboration with the central PMO services.
+- Supported the design office departments in their daily activities by setting up regular workshops to help team managers familiarize themselves with Planisware and its functionalities step-by-step.
+- Implemented training support and coaching for PMI certification.
+- Conducted technical and financial follow-up:
+    - KPI follow-up, database checks, corrections, and maintenance.
+    - Communicated with department and service managers.
+    - Created dashboards: Major KPI aggregation for service follow-up.
+    - Managed procurement: cost attribution, PO checks.
+    - Conducted technical and financial mapping.
+    - Conducted Estimate at Completion.
+    - Managed Mid-Term Plan.
+    - Managed Non-Recurring Cost.
+    - Ensured Gate adherence.
+- Created and documented an improvement plan regarding PMO processes.
+- Assisted Work Package managers in their daily activities.
+- Conducted work as per customer needs.
+- Conducted load and feasibility analysis.
 
-**Technical environment:**
+**Technical Environment:**  
 Pack Office, CRM, BTP
 
 #### Project Manager Assistant
-**ALTEN SA & Filiales (siège)**  
-Août 2017 à août 2018 (1 an et 1 months)
+**ALTEN SA & subsidiaries (headquarter)**  
+Nov 2013 - Aug 2017 (3 years and 10 months)
 
-**Context:**
-Purchasing department - Tryearsversal Project - SAP MM support
+**Context:**  
+Purchasing Department - Projects - SAP MM support
 
-**Tasks and responsibilities:** 
+**Tasks and Responsibilities:**
 - Integrated IT department scope into the procurement department.
-- Operated change management toward IT directors.
-- Process repository & Modus Operandi creation.
-- Created decisional tools to follow and realize the tryearsition.
+- Managed change processes with IT directors.
+- Created process repositories and modus operandi.
+- Developed decision-making tools to support the transition.
 - Overhauled purchasing administration KPIs using Power BI.
-- Discovered and understood Power BI, studied efficient data uploading methods.
-- Converted data and existing dashboards into a usable format for - Power BI.
-- Created an interactive dashboard accessible from the WEB and - demonstrated it to management.
-- Managed suppliers' web portal projects.
-- Created a contract management tool and set up a lightweight database in collaboration with the operational team.
-- Purchasing tryearsversal tools: decisional tools, KPI & dashboard.
-- General services budget review in collaboration with the finance - department.
-- Responsible for "good practice" & process.
-- participation Project (Service Now): KPI & user side database.
-- Acceptance Testing on SAP Business Object 4.0 (BI4).
+- Learned and utilized Power BI, studied efficient data uploading methods.
+- Converted data and existing dashboards into a format compatible with Power BI.
+- Created an interactive dashboard accessible from the web and demonstrated it to management.
+- Managed supplier web portal projects.
+- Developed a contract management tool and set up a database in collaboration with the operational team.
+- Managed purchasing tools: decision-making tools, KPI, and dashboards.
+- Conducted general services budget review in collaboration with the finance department.
+- Ensured best practices and process adherence.
+- Participated in projects (Service Now): KPI and user database.
+- Conducted acceptance testing on SAP Business Object 4.0 (BI4).
 
-**Technical environment:**
-Plannisware, SAP MM, Pack Office, VBA, Power BI
+**Technical Environment:**  
+Planisware, SAP MM, Pack Office, VBA, Power BI
 
-#### Purchasing Administrator, Tools & Process
-**ALTEN SA & Filiales (siège)**  
-Août 2013 à août 2017 (4 years et 1 months)
+#### Purchasing Administrator, Tools & Processes
+**ALTEN SA & subsidiaries (headquarter)**  
+Nov 2013 - Aug 2017 (3 years and 10 months)
 
-**Context:**
- General services / Real estates / Travel /
- IT - SAP MM Key user & support
+**Context:**  
+General services / Real estate / Travel / IT - SAP MM Key user & support
 
-**Tasks and responsibilities:**
-- SAP repository of knowledge: Created and documented process and modus operandi,mentored and trained other entities, acted as SAP key user (MM, FI, Bi4).
-- Upgrading SAP BusinessObjects 4.0 (Bi4): Scope statement, acceptance testing, refused delivery due to inoperative product.
-- Designed and developed an automated system to create budget on a loop, integrated similar functionalities into SAP, and drafted a user notice.
-- Automation of Procurement & Suppliers' communication: Lead time reduction, drastic error margin improvement, standardized communication exchange, automated data flux, added functionality using VBA via Outlook.
-- Developed a WEBAPP that allowed the purchasing & operational team to generate purchase requests (FIORI): Scope statement, acceptance testing, created and documented "Modus Operandi," change management,pilot population trial.
-- Deployed an EDI flow for the travel department: Scope statement, acceptance testing.
-- Business process improvement: standardized suppliers/accounting/purchasing flow, standardized database, lead time reduction, eliminated non-value-added processes.
-- Coordinated scope integration and suppliers rationalization during mergers and acquisitions.
+**Tasks and Responsibilities:**
+- Repositioning SAP knowledge:
+    - Writing processes and operating procedures.
+    - Supporting subsidiaries during deployment as SAP key user for MM, FI, and Bi4.
+    - Upgrading to BusinessObjects 4.0 (Bi4).
 
-**Technical environment:**
+- Writing specifications:
+    - Functional specifications.
+    - Acceptance testing, verification of database conformity.
+    - Refusal of the deliverable.
+    - Designing and developing a system for budget creation and tracking.
+
+- User studies and specifications:
+    - State of the art: identifying existing tools/databases.
+    - Specifications: Listing tools to be created and methods to be used.
+    - Gathering budget inputs from internal clients.
+    - Finalizing and delivering to the finance department.
+    - Integrating data via tool into the ERP.
+    - Writing a user manual.
+    - Automating communication between Procurement and suppliers.
+
+- Reducing processing times:
+    - Significant reduction in error rates.
+    - Standardizing supplier/procurement function exchanges.
+    - Automated sorting through data cross-referencing.
+    - Creating an Outlook functionality via VBA.
+    - Developing a WEBAPP to allow business functions to directly make purchase requests via a WEB portal (FIORI).
+
+- Writing specifications:
+    - Acceptance testing.
+    - Writing "modus operandi".
+    - Change management.
+    - Pilot scope and deployment across the rest of the group.
+
+- Deploying an EDI flow for the Travel department:
+    - Gathering requirements.
+    - Supporting as SAP key user.
+    - Acceptance testing.
+    - Continuous process improvement.
+
+- Standardizing supplier/accounting/purchasing flows:
+    - Standardizing databases.
+    - Reducing processing times and error rates.
+    - Writing and updating processes.
+    - Writing and updating "modus operandi".
+    - Automating processes.
+    - Eliminating non-value-added tasks.
+
+- Organizing scope takeovers and supplier rationalization during mergers and acquisitions (1 to 2 per year).
+- Coordination between services.
+- Mastering data related to the supplier park.
+- Participating in recruitment & training of new employees.
+
+**Technical Environment:**  
 Excel, BI4, PowerBI, HTML, VBA, SharePoint, Visio, Pack Office
 
 #### Planner Assistant
 **Raffinerie Total de Donges via Expectra**  
 Feb 2013 - May 2013 (4 months)
 
-**Tasks and responsibilities:**
-- Contrôle d’avancement des travaux.
-- Monitored work progress, collaborated with operators and managers to provide planning updates.
-- Chemical risk N1 certification: PRP/H2S's Risks.
-- Technical Environment: Excel, Pack office, PRP, H2S.
+**Tasks and Responsibilities:**
+- Monitored work progress, collaborated with operators and managers to update planning.
+- Certified in chemical risk N1.
+- Trained in PRP/H2S risks.
 
-**Technical environment:**
+**Technical Environment:**  
 VBA, HTML, EXCEL, SAP MM & FI, SAP Business Object 4.0, SharePoint, Visio, Pack Office
 
 #### Auction House Employee
 **Salorges Enchère**  
-Aug 2012 - 2013 (6 months)
+Aug 2012 - Jan 2013 (6 months)
 
-**Tasks and responsibilities:**
-- Business introducer.
-- Supply planning.
-- Customer and expert relations management.
+**Tasks and Responsibilities:**
+- Acted as a business introducer.
+- Managed supply planning.
+- Handled customer and expert relations.
 
-**Technical environment:**
+**Technical Environment:**  
 Excel, Pack Office, Access
 
 ---
 
 ### Languages
 
-**ENGLISH/FRENCH**
+**English/French**
 
 ---
 
-### Licenses & certifications
+### Licenses & Certifications
+
+**PMI**  
+CAPM
 
 **Software Engineering**  
 12/2023  
-For the completion of 61 projects in addition to coding exercises at Silicon Valley standards covering fundamental concepts of software engineering programming.
+Completion of 61 projects in addition to coding exercises at Silicon Valley standards, covering fundamental concepts of software engineering.
 
 **Introduction to Software Engineering || C programming level II**  
 02/2023  
-For the completion of 25 projects in addition to coding exercises at Silicon Valley standards covering fundamental concepts of software engineering in C programming level II.
+Completion of 25 projects in addition to coding exercises at Silicon Valley standards, covering fundamental concepts of software engineering in C programming level II.
 
 **Introduction to Software Engineering || C programming level I**  
 08/2022  
-For the completion of 16 projects in addition to coding exercises at Silicon Valley standards covering fundamental concepts of software engineering in C programming level I.
+Completion of 16 projects in addition to coding exercises at Silicon Valley standards, covering fundamental concepts of software engineering in C programming level I.
 
 **Introduction to Fullstack Development**  
 05/2022  
-For the completion of 15 projects in addition to coding exercises at Silicon Valley standards covering fundamental concepts of fullstack engineering in Javascript programming.
+Completion of 15 projects in addition to coding exercises at Silicon Valley standards, covering fundamental concepts of fullstack engineering in JavaScript programming.
 
 ---
 
-### Technical skills
+### Technical Skills
 
-**Programing Languages:**
-
+**Programming Languages:**
 - C
 - C++
 - Rust
@@ -314,9 +352,10 @@ For the completion of 15 projects in addition to coding exercises at Silicon Val
 - SAP MM/FI/PS
 - Planisware
 - MSP 
-- Pack office
+- Pack Office
 - Visio
-- Sharepoint 
+- SharePoint 
 - PowerApps
 - Flow
+
 ---
