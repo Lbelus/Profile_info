@@ -17,7 +17,7 @@ Diligent et motivé, doté d'une solide expérience dans le développement d'out
 
 **Qwasar Silicon Valley**  
 *Assistant de professeur en Software Engineering*  
-mai 2022 à avril 2024 (23 mois)
+mai 2022 à avril 2024 (2 ans)
 
 **AMARIS ENERGIE**  
 *PMO*  
@@ -33,7 +33,7 @@ Janvier 2021 à septembre 2021 (9 mois)
 
 **SCALIAN pour SAFRAN AIRCRAFT ENGINES**  
 *Consultant Gestion de Projet – PMO*  
-Mars 2019 à novembre 2019 (9 mois)
+Avril 2019 à novembre 2019 (8 mois)
 
 **ALTEN SA & Filiales (siège)**  
 *Assistant Chef de Projets de la Direction Achat*  
@@ -92,7 +92,7 @@ Master 2 : Gestion de Projet et Ingénierie Commerciale
 
 #### Assistant de professeur en Software Engineering
 **Qwasar Silicon Valley (remote USA)**  
-mai 2022 à avril 2024 (23 mois)
+mai 2022 à avril 2024 (2 ans)
 
 **Tâches effectuées :**
 - Animation de cours sur les algorithmes et les structures de données en C++, C, Ruby, Python et JavaScript/TypeScript.
@@ -107,7 +107,7 @@ C++, C, Rust, ASM, Ruby, Python, JavaScript/TypeScript, Linux, Makefile, CMake, 
 Octobre 2022 à décembre 2022 (3 mois)
 
 **Contexte :**
-Contrat à court terme
+Contrat à court terme.
 
 **Tâches effectuées :**
 - Réalisation d’une analyse des bilans sur une période de 5 ans.
@@ -154,17 +154,12 @@ Création d’une entreprise en franchise de type SAS avec pour objectif un CA �
 **Environnement technique :**
 Pack Office, CRM, BTP 
 
-**Résultats :**
-- Réalisation d'une analyse des bilans sur une période de 5 ans.
-- Développement d'un outil de reporting en utilisant des données gouvernementales (de 2017 à 2021) avec des scripts Bash et des outils de BI (Business Intelligence).
-- Création d'une planification initiale (t0) pour un projet interne.
-
 #### Consultant Gestion de Projet – PMO
 **SCALIAN pour SAFRAN AIRCRAFT ENGINES**  
 Mars 2019 à novembre 2019 (9 mois)
 
 **Contexte :**
-Bureau d’études Systèmes propulsifs (600 collaborateurs, 120 M.€ de CA)
+Bureau d’études Systèmes propulsifs (600 collaborateurs, 120 M.€ de CA).
 
 **Tâches effectuées :**
 - Préparation des plans moyen terme en collaboration avec le contrôle de gestion et marque technique.
@@ -175,18 +170,6 @@ Bureau d’études Systèmes propulsifs (600 collaborateurs, 120 M.€ de CA)
 - Mise au format des données pour exploitation par le contrôle de gestion et équipe métier.
 - Création des supports pour accompagner les équipes métier dans leurs démarches d’édition budgétaire.
 - Accompagnement des équipes en collaboration avec le PMO central dans leur démarche de formation.
-
-**Environnement technique :**
-Pack Office, CRM, BTP
-
-#### Assistant Chef de Projets de la Direction Achat
-**ALTEN SA & Filiales (siège)**  
-Août 2017 à août 2018 (1 an et 1 mois)
-
-**Contexte :**
-Service achats - Projet transverse - Key user SAP MM & support SAP
-
-**Tâches effectuées :**
 - Mise en place d’un plan d’amélioration continue des processus PMO.
 - Création, maintien et développement des outils de reporting.
 - Accompagnement et support des responsables de lot dans leurs activités.
@@ -201,14 +184,14 @@ Service achats - Projet transverse - Key user SAP MM & support SAP
 - Méthode des 5S (Suppression/Archivage ; Organisation ; Maintien ; Préservation ; Boucle de contrôle).
 
 **Environnement technique :**
-Plannisware, SAP MM, Pack Office, VBA, Power BI
+Pack Office, CRM, BTP
 
-#### Chargé Administration des Achats, Outils et Processus
+#### Assistant Chef de Projets de la Direction Achat
 **ALTEN SA & Filiales (siège)**  
-Août 2013 à août 2017 (4 ans et 1 mois)
+Août 2017 à août 2018 (1 an et 1 mois)
 
 **Contexte :**
-Service achats - Projet transverse - Key user SAP MM & support SAP
+Service achats - Projet transverse - Key user SAP MM & support SAP.
 
 **Tâches effectuées :**
 - Contrathèque.
@@ -226,6 +209,70 @@ Service achats - Projet transverse - Key user SAP MM & support SAP
 - Création d’un outil de gestion des contrats, de leurs avenants et des coûts.
 - Constitution d’une base de données avec les équipes métiers.
 - Spécification fonctionnelle (Processus, Niveau de données requis) pour intégration au sein de Service Now.
+
+**Environnement technique :**
+Plannisware, SAP MM, Pack Office, VBA, Power BI
+
+#### Chargé Administration des Achats, Outils et Processus
+**ALTEN SA & Filiales (siège)**  
+Août 2013 à août 2017 (4 ans et 1 mois)
+
+**Contexte :**
+Service achats - Projet transverse - Key user SAP MM & support SAP.
+
+**Tâches effectuées :**
+- Repositionnement de la connaissance SAP.
+    - Rédaction des processus et mode opératoire.
+    - Repositionnement au niveau des autres entités du groupe lors de réunions.
+    - Accompagnement des liales lors du déploiement en tant que key user SAP, MM, FI, et Bi4.
+    - Montée de version sous BusinessObjects 4.0 (Bi4).
+
+ - Rédaction du cahier des charges.
+    - Spécification fonctionnelle.
+    - Recettage, vérification de la conformité des bases de données.
+    - Refus du livrable.
+    - Conception et développement d’un dispositif de création et de suivi de budget.
+
+ - Etudes et spécification utilisateur.
+    - Etat de l’art : identification des outils/base de données existantes.
+    - Cahier des charges: Listing des outils à créer et méthodes à employer.
+    - Recueil des inputs budgets avec les clients internes.
+    - Finalisation et livraison au département finance.
+    - Intégration des données via outil au sein de l’ERP.
+    - Rédaction d’un mode d’emploi pour utilisateur.
+    - Automatisation de la communication entre Procurement et fournisseur.
+
+- Réduction délais de traitement.
+    - Forte diminution du taux d’erreur.
+    - Normalisation des échanges fournisseurs / fonction achat.
+    - Tri automatisé par croisement de données.
+    - Création d’une fonctionnalité sous Outlook via VBA.
+    - Développement d’une WEBAPP pour permettre aux fonctions métiers d’effectuer directement des demandes d’achats via un portail WEB (FIORI).
+
+- Rédaction du cahier des charges.
+    - Recettage.
+    - Rédaction de « modus operandi ».
+    - Conduite du changement.
+    - Périmètre pilote et déploiement sur le reste du groupe.
+
+- Déploiement d’un Flux EDI sur le périmètre Travel.
+    - Recueil du besoin.
+    - Accompagnement en tant que key user SAP.
+    - Recettage.
+    - Amélioration continue des processus.
+
+- Normalisation des Flux fournisseur / comptabilité / achat.
+    - Normalisation des bases de données.
+    - Réduction délais de traitement et taux d’erreur.
+    - Rédaction et mise-à-jour de processus.
+    - Rédaction de mise-à-jour « modus operandi ».
+    - Automatisation des processus.
+    - Suppression des tâches ne présentant pas de valeur ajoutée.
+    - Organisation des reprises de périmètre et de rationalisation des fournisseurs lors des fusions-acquisitions (1 à 2 par an).
+
+- Coordination entres service.
+    - Maîtrise des données liées au parc fournisseur.
+    - Participation aux recrutements & à la formation des collaborateurs entrants.
 
 **Environnement technique :**
 Excel, BI4, PowerBI, HTML, VBA, SharePoint, Visio, Pack Office
