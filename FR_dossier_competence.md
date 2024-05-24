@@ -1,7 +1,7 @@
 
 ---
 
-**Lorris**
+**LBS**
 **PMO / Software Engineer**  
 *C++ | C | Rust | Ruby | Python*
 
@@ -55,17 +55,17 @@ Août 2012 à janvier 2013 (6 mois)
 
 ### Compétences
 
-**Programmation et Développement Avancés :**  
+**Programmation et Développement Avancés:**  
 Compétent dans des langages tels que C++, C, Rust, ASM, Ruby, Python, JavaScript et TypeScript. Développement de projets complexes démontrant une compréhension approfondie de la programmation bas niveau et des systèmes d'exploitation, y compris des projets personnels comme un client/serveur Redis, un serveur FTP, des implémentations custom d'utilitaires (malloc, curl, zsh, readline, tar, ls), et une version de sqlite basée sur Ruby.
 
-**Maîtrise Complète des Outils et Technologies :**  
+**Maîtrise Complète des Outils et Technologies:**  
 Compétent dans l'utilisation d'une large gamme d'outils et de technologies, y compris CMake, Make, Google Test, Docker, et Nginx pour le développement et le déploiement. Expert dans les modules SAP (PS, MM, FI), Business Object 4.0, et PowerBI avec DAX, pour gérer données et projets.
 
-**Gestion de Projets et Optimisation des Processus :**  
+**Gestion de Projets et Optimisation des Processus:**  
 Expérimenté dans l'utilisation de Visio, MSP, Planisware, PowerApps, SharePoint et Microsoft Flow pour la gestion de projets et l'optimisation des processus.
 
-**Gestion de Projets et Analyse Financière :**  
-Expertise dans la direction d'équipes pour développer des budgets de haute valeur, créer et maintenir des outils financiers avancés utilisant VBA et Power BI, et réaliser des analyses financières complètes incluant EVM, analyse de charge/capacité, et analyses de variance.
+**Gestion de Projets et Analyse Financière:**  
+Expertise dans la direction d'équipes pour création et suivi de budgets, création et maintenance d'outils financiers avancés utilisant VBA et Power BI, et réaliser des analyses financières complètes incluant EVM, analyse de charge/capacité, et analyses de variance.
 
 ---
 
@@ -78,10 +78,10 @@ FCE
 Master of Science - MS, Computer Science
 
 **Groupe IGS - ESAM - Paris**  
-Master 1 : Responsable en Gestion et Développement d’Entreprise
+Master 1: Responsable en Gestion et Développement d’Entreprise
 
 **INSEEC - Bordeaux**  
-Master 2 : Gestion de Projet et Ingénierie Commerciale
+Master 2: Gestion de Projet et Ingénierie Commerciale
 
 ---
 
@@ -91,56 +91,56 @@ Master 2 : Gestion de Projet et Ingénierie Commerciale
 **Qwasar Silicon Valley (remote USA)**  
 mai 2022 à avril 2024 (2 ans)
 
-**Tâches effectuées :**
+**Tâches effectuées:**
 - Animation de cours sur les algorithmes et les structures de données en C++, C, Ruby, Python et JavaScript/TypeScript.
 - Réalisation de peer-reviews et tutorats divers.
 - Soutien et formation aux autres étudiants, créant un environnement d'apprentissage collaboratif par la réalisation de veille technologique et partage de connaissances.
 
-**Environnement technique :**
+**Environnement technique:**
 C++, C, Rust, ASM, Ruby, Python, JavaScript/TypeScript, Linux, Makefile, CMake, Google Tests
 
 #### Consultant Indépendant
 **RHAPSODY - PORTAGE SALARIAL**  
 Octobre 2022 à décembre 2022 (3 mois)
 
-**Contexte :**
+**Contexte:**
 Contrat à court terme.
 
-**Tâches effectuées :**
+**Tâches effectuées:**
 - Réalisation d’une analyse des bilans sur une période de 5 ans.
 - Développement d’un outil de reporting en utilisant des données gouvernementales (de 2017 à 2021) avec des scripts Bash et des outils de BI (Business Intelligence).
 - Création d’une planification initiale (t0) pour un projet interne.
 
-**Environnement technique :**
+**Environnement technique:**
 Linux, Bash, Google Workspace
 
 #### PMO
 **AMARIS ENERGIE**  
 Décembre 2021 à mai 2022 (6 mois)
 
-**Contexte :**
+**Contexte:**
 Intervention au sein de la direction des grands projets pour ORANO sur le site de la Hague sur scope à 300m€/an.
 
-**Tâches effectuées :**
+**Tâches effectuées:**
 - Suivi de l’EAC, et de la conformité des coûts projet vs ERP.
 - Suivi des évolutions de coûts et des avancements.
 - Suivi de la facturation fournisseurs.
 - Coordination avec 14 cost controller. 
 - Revue de projets.
 
-**Environnement technique :**
+**Environnement technique:**
 SAP MM/FI/PS, Pack office, VBA
 
 #### Entrepreneur
 **CFPC**  
 Janvier 2021 à septembre 2021 (9 mois)
 
-**Contexte :**
+**Contexte:**
 Création d’une entreprise en franchise de type SAS avec pour objectif un CA à 1300k€ et un RN à 8%.
 
-**Tâches effectuées :**
+**Tâches effectuées:**
 - Négociation achat d’une entreprise avec étude des résultats financiers et analyse des actifs organisationnels.
-- Étude make or buy : choix de la méthode d’insertion au sein du réseau par l’achat d’une entreprise existante ou par la création. Sélection : création.
+- Étude make or buy: choix de la méthode d’insertion au sein du réseau par l’achat d’une entreprise existante ou par la création. Sélection: création.
 - Reprise des éléments du franchiseur pour élaboration du business model et travail en collaboration avec un cabinet d’expertise comptable pour création d’un prévisionnel financier.
 - Établissement d’un business plan (analyse marketing, étude de la zone de chalandise, éléments financiers, stratégie d’implantation).
 - Recherche de financement, contact avec partenaires sociaux (CMA/CCI).
@@ -148,17 +148,17 @@ Création d’une entreprise en franchise de type SAS avec pour objectif un CA �
 - Sourcing fournisseur et développement du réseau de l’entreprise (prospects, partenaires, experts, établissements bancaires).
 
 
-**Environnement technique :**
+**Environnement technique:**
 Pack Office, CRM, BTP 
 
 #### Consultant Gestion de Projet – PMO
 **SCALIAN pour SAFRAN AIRCRAFT ENGINES**  
 Mars 2019 à novembre 2019 (9 mois)
 
-**Contexte :**
+**Contexte:**
 Bureau d’études Systèmes propulsifs (600 collaborateurs, 120 M.€ de CA).
 
-**Tâches effectuées :**
+**Tâches effectuées:**
 - Préparation des plans moyen terme en collaboration avec le contrôle de gestion et marque technique.
 - Participation au déploiement de Planisware en collaboration avec le PMO Central.
 - Mise en place de sessions d’accompagnement aux certifications PMI.
@@ -172,31 +172,31 @@ Bureau d’études Systèmes propulsifs (600 collaborateurs, 120 M.€ de CA).
 - Accompagnement et support des responsables de lot dans leurs activités.
 - Réalisation de travaux divers à la demande du client.
 - Analyse de charge, de besoin des écarts et de faisabilité (développement d’outils).
-- Non Recurring Cost : Suivi des indicateurs de performance et développement du suivi par service.
-- Performance Opérationnelle : Suivi des indicateurs de performance, correction des données hors-scope, communication aux équipes.
+- Non Recurring Cost: Suivi des indicateurs de performance et développement du suivi par service.
+- Performance Opérationnelle: Suivi des indicateurs de performance, correction des données hors-scope, communication aux équipes.
 - Étude des processus par la création d’un SIPOC (Cartographie).
 - Création d’un référentiel (Contexte, Objectifs, périmètre, définition, légende, méthode de calcul).
 - Mode opératoire (Contexte, Objectifs, périmètre, définition, légende, méthode de calcul, SIPOC, Diagramme de flux, RACI).
 - Gestion des Risques identifiés lors des phases d’enquêtes (AMDEC + KANBAN).
 - Méthode des 5S (Suppression/Archivage ; Organisation ; Maintien ; Préservation ; Boucle de contrôle).
 
-**Environnement technique :**
+**Environnement technique:**
 Pack Office, CRM, BTP
 
 #### Assistant Chef de Projets de la Direction Achat
 **ALTEN SA & Filiales (siège)**  
 Août 2017 à août 2018 (1 an et 1 mois)
 
-**Contexte :**
+**Contexte:**
 Service achats - Projet transverse - Key user SAP MM & support SAP.
 
-**Tâches effectuées :**
+**Tâches effectuées:**
 - Contrathèque.
 - Outils transverses ADA & Dir. Achat.
 - Création d’outils décisionnels & KPI.
 - Revue de budget en relation avec le contrôle de gestion.
 - Garant de la bonne pratique & des processus.
-- Projet de refonte SI (Service Now) : KPI et base de données (spécification fonctionnelle).
+- Projet de refonte SI (Service Now): KPI et base de données (spécification fonctionnelle).
 - Recette sur BI4.
 - Rédaction du cahier des charges.
 - Spécification fonctionnelle (Processus, Niveau de données requis).
@@ -207,17 +207,17 @@ Service achats - Projet transverse - Key user SAP MM & support SAP.
 - Constitution d’une base de données avec les équipes métiers.
 - Spécification fonctionnelle (Processus, Niveau de données requis) pour intégration au sein de Service Now.
 
-**Environnement technique :**
+**Environnement technique:**
 Plannisware, SAP MM, Pack Office, VBA, Power BI
 
 #### Chargé Administration des Achats, Outils et Processus
 **ALTEN SA & Filiales (siège)**  
 Août 2013 à août 2017 (4 ans et 1 mois)
 
-**Contexte :**
+**Contexte:**
 Service achats - Projet transverse - Key user SAP MM & support SAP.
 
-**Tâches effectuées :**
+**Tâches effectuées:**
 - Repositionnement de la connaissance SAP.
     - Rédaction des processus et mode opératoire.
     - Accompagnement des filiales lors du déploiement en tant que key user SAP, MM, FI, et Bi4.
@@ -230,7 +230,7 @@ Service achats - Projet transverse - Key user SAP MM & support SAP.
     - Conception et développement d’un dispositif de création et de suivi de budget.
 
  - Etudes et spécification utilisateur.
-    - Etat de l’art : identification des outils/base de données existantes.
+    - Etat de l’art: identification des outils/base de données existantes.
     - Cahier des charges: Listing des outils à créer et méthodes à employer.
     - Recueil des inputs budgets avec les clients internes.
     - Finalisation et livraison au département finance.
@@ -270,32 +270,32 @@ Service achats - Projet transverse - Key user SAP MM & support SAP.
 - Maîtrise des données liées au parc fournisseur.
 - Participation aux recrutements & à la formation des collaborateurs entrants.
 
-**Environnement technique :**
+**Environnement technique:**
 Excel, BI4, PowerBI, HTML, VBA, SharePoint, Visio, Pack Office
 
 #### Assistant Planificateur Suivi de Chantier
 **Raffinerie Total de Donges via Expectra**  
 Février 2013 à mai 2013 (4 mois)
 
-**Tâches effectuées :**
+**Tâches effectuées:**
 - Contrôle d’avancement des travaux.
 - Mise à jour de la planification détaillée et générale avec les exploitants responsables et gérants des chantiers.
 - Habilitation aux risques chimiques N1.
 - Formation aux risques PRP/H2S.
 
-**Environnement technique :**
+**Environnement technique:**
 VBA, HTML, EXCEL, SAP MM & FI, SAP Business Object 4.0, SharePoint, Visio, Pack Office
 
 #### Commissionnaire
 **Salorges Enchère**  
 Août 2012 à janvier 2013 (6 mois)
 
-**Tâches effectuées :**
+**Tâches effectuées:**
 - Plan d’approvisionnement hebdomadaire (référence, gestion de stockage, flux logistique, facturation, TRACFIN).
 - Liaison avec les experts, client, professionnel monde, particulier, transporteur.
 - Apporteur d’affaire.
 
-**Environnement technique :**
+**Environnement technique:**
 Excel, Pack Office, Access
 
 ---
@@ -331,7 +331,7 @@ Réalisation de 15 projets en plus d'exercices de codage aux normes de la Silico
 
 ### Compétences Techniques
 
-**Langages de Programmation :**
+**Langages de Programmation:**
 
 - C
 - C++
@@ -345,7 +345,7 @@ Réalisation de 15 projets en plus d'exercices de codage aux normes de la Silico
 - DAX
 - JavaScript/TypeScript
 
-**Outils :**
+**Outils:**
 - Git
 - CMake
 - Google Tests
