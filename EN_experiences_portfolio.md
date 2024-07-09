@@ -104,6 +104,20 @@ Master 2: Project Management & Business Engineering
 
 ### Experiences
 
+
+#### WEB3 Developer
+**Independent Consultant**
+
+**Tasks and Responsibilities:**
+- Developed and designed an innovative service for document authentication using Solana blockchain and smart contracts.
+- Engineered a scalable system design to minimize infrastructure requirements.
+- Implemented API routes to manage interactions between client, database, and backend.
+- Built a backend system utilizing a queue for document uploads to IPFS and registration on the blockchain via custom smart contracts.
+
+**Technical Environment:**
+TypeScript, Next.js, NextAuth, Firebase, IPFS, Solana Anchor (Rust)
+
+
 #### Teacher's Assistant in Software Engineering
 
 **Qwasar Silicon Valley (remote USA)**
@@ -404,5 +418,6 @@ in JavaScript programming.
 - SharePoint
 - PowerApps
 - Flow
-
+- IPFS
+- Solana Smart Contract 
 ------------------------------------------------------------------------

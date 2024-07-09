@@ -9,7 +9,7 @@
 
 ### Présentation
 
-Diligent et motivé, doté d'une solide expérience dans le développement d'outils décisionnels et opérationnels, ainsi que dans la gestion de budgets dépassant les 300 millions d'euros par an, je suis désireux de rejoindre une équipe dynamique dans un rôle de PMO pour partager et enrichir ma passion pour la gestion de projet et le développement de software.
+Diligent et motivé, doté d'une solide expérience dans le développement d'outils décisionnels et opérationnels, ainsi que dans la gestion de budgets dépassant les 300 millions d'euros par an, je suis désireux de rejoindre une équipe dynamique dans un rôle de PMO /software Engineer pour partager et enrichir ma passion pour la gestion de projet et le développement de software.
 
 ---
 
@@ -86,6 +86,19 @@ Master 2: Gestion de Projet et Ingénierie Commerciale
 ---
 
 ### Expériences Détaillées
+
+
+#### Développeur WEB3
+**Consultant Indépendant**
+
+**Tâches et Responsabilités :**
+- Développement et conception d'un service innovant d'authentification de documents utilisant la blockchain Solana et des smart contracts.
+- Conception d'un système évolutif pour minimiser les besoins en infrastructure.
+- Implémentation de routes API pour gérer les interactions entre le client, la base de données et le backend.
+- Création d'un système backend utilisant une file d'attente pour les téléchargements de documents vers IPFS et l'enregistrement sur la blockchain via des smart contracts personnalisés.
+
+**Environnement Technique :**
+TypeScript, Next.js, NextAuth, Firebase, IPFS, Solana Anchor (Rust)
 
 #### Assistant de professeur en Software Engineering
 **Qwasar Silicon Valley (remote USA)**  
@@ -358,4 +371,6 @@ Réalisation de 15 projets en plus d'exercices de codage aux normes de la Silico
 - Sharepoint 
 - PowerApps
 - Flow
+- IPFS
+- Solana Smart Contract 
 ---
