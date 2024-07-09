@@ -15,6 +15,10 @@ Diligent et motivé, doté d'une solide expérience dans le développement d'out
 
 ### Résumé des expériences
 
+**Développeur WEB3**  
+*Consultant Indépendant*  
+avril 2024 à septembre 2024 (4 mois)  
+
 **Qwasar Silicon Valley**  
 *Assistant de professeur en Software Engineering*  
 mai 2022 à avril 2024 (2 ans)

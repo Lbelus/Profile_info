@@ -18,41 +18,45 @@ software development and project management.
 
 ### Experiences Summary
 
-**Qwasar Silicon Valley**
-*Teacher's Assistant in Software Engineering*
-May 2022 - Apr 2024 (2 years)
+**WEB3 Developer**  
+*Independent Consultant*  
+Apr 2024 à Sep 2024 (4 months)  
 
-**RHAPSODY - PORTAGE SALARIAL**
-*Independent Consultant*
-Oct 2022 - Dec 2022 (3 months)
+**Qwasar Silicon Valley**  
+*Teacher's Assistant in Software Engineering*  
+May 2022 - Apr 2024 (2 years)  
 
-**AMARIS ENERGIE**
-*Project Management Consultant - PMO*
-Dec 2021 - May 2022 (6 months)
+**RHAPSODY - PORTAGE SALARIAL**  
+*Independent Consultant*  
+Oct 2022 - Dec 2022 (3 months)  
 
-**CFPC**
-*Entrepreneur*
-Jan 2021 - Sep 2021 (9 months)
+**AMARIS ENERGIE**  
+*Project Management Consultant - PMO*  
+Dec 2021 - May 2022 (6 months)  
 
-**SCALIAN for SAFRAN AIRCRAFT ENGINES**
-*Project Management Consultant - PMO*
-Apr 2019 - Nov 2019 (9 months)
+**CFPC**  
+*Entrepreneur*  
+Jan 2021 - Sep 2021 (9 months)  
 
-**ALTEN SA & subsidiaries (headquarter)**
-*Project Manager Assistant*
-Aug 2017 - Jun 2018 (11 months)
+**SCALIAN for SAFRAN AIRCRAFT ENGINES**  
+*Project Management Consultant - PMO*  
+Apr 2019 - Nov 2019 (9 months)  
 
-**ALTEN SA & subsidiaries (headquarter)**
-*Purchasing Administrator, Tools & Processes*
-Nov 2013 - Aug 2017 (3 years and 10 months)
+**ALTEN SA & subsidiaries (headquarter)**  
+*Project Manager Assistant*  
+Aug 2017 - Jun 2018 (11 months)  
 
-**Raffinerie Total de Donges via Expectra**
-*Planner Assistant*
-Feb 2013 - May 2013 (4 months)
+**ALTEN SA & subsidiaries (headquarter)**  
+*Purchasing Administrator, Tools & Processes*  
+Nov 2013 - Aug 2017 (3 years and 10 months)  
 
-**Salorges Enchère**
-*Auction House Employee*
-Aug 2012 - Jan 2013 (6 months)
+**Raffinerie Total de Donges via Expectra**  
+*Planner Assistant*  
+Feb 2013 - May 2013 (4 months)  
+
+**Salorges Enchère**  
+*Auction House Employee*  
+Aug 2012 - Jan 2013 (6 months)  
 
 ------------------------------------------------------------------------
 
