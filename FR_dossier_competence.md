@@ -1,7 +1,7 @@
 
 ---
 
-**LBS**
+**LBS**  
 **PMO / Software Engineer**  
 *C++ | C | Rust | Ruby | Python*
 
@@ -37,15 +37,15 @@ Janvier 2021 à septembre 2021 (9 mois)
 
 **SCALIAN pour SAFRAN AIRCRAFT ENGINES**  
 *Consultant Gestion de Projet – PMO*  
-Avril 2019 à novembre 2019 (8 mois)
+Avril 2019 à novembre 2019 (9 mois)
 
 **ALTEN SA & Filiales (siège)**  
 *Assistant Chef de Projets de la Direction Achat*  
-Août 2017 à août 2018 (1 an et 1 mois)
+Août 2017 à août 2018 (11 mois)
 
 **ALTEN SA & Filiales (siège)**  
 *Chargé Administration des Achats, Outils et Processus*  
-Août 2013 à août 2017 (4 ans et 1 mois)
+Août 2013 à août 2017 (3 ans et 10 mois)
 
 **Raffinerie Total de Donges via Expectra**  
 *Assistant Planificateur Suivi de Chantier*  
@@ -54,6 +54,18 @@ Février 2013 à mai 2013 (4 mois)
 **Salorges Enchère**  
 *Commissionnaire*  
 Août 2012 à janvier 2013 (6 mois)
+
+**INDÉPENDANT**  
+*Magasin en ligne & salle de vente*  
+Mars 2011 à Juillet 2012 (1 an et 5 mois)
+
+**Salorges Enchère**  
+*Assistant administratif*  
+Février 2010 à Janvier 2011 (1 an et 1 mois)
+
+**Salorges Enchère**  
+*vendeur*  
+Novembre 2009 à Janvier 2010 (6 mois)
 
 ---
 
@@ -198,7 +210,7 @@ Bureau d’études Systèmes propulsifs (600 collaborateurs, 120 M.€ de CA).
 - Méthode des 5S (Suppression/Archivage ; Organisation ; Maintien ; Préservation ; Boucle de contrôle).
 
 **Environnement technique:**
-Pack Office, CRM, BTP
+Planisware, SAP MM, Pack Office, VBA, Power BI
 
 #### Assistant Chef de Projets de la Direction Achat
 **ALTEN SA & Filiales (siège)**  
@@ -225,7 +237,7 @@ Service achats - Projet transverse - Key user SAP MM & support SAP.
 - Spécification fonctionnelle (Processus, Niveau de données requis) pour intégration au sein de Service Now.
 
 **Environnement technique:**
-Plannisware, SAP MM, Pack Office, VBA, Power BI
+Excel, BI4, PowerBI, HTML, VBA, SharePoint, Visio, Pack Office
 
 #### Chargé Administration des Achats, Outils et Processus
 **ALTEN SA & Filiales (siège)**  
@@ -235,46 +247,46 @@ Août 2013 à août 2017 (4 ans et 1 mois)
 Service achats - Projet transverse - Key user SAP MM & support SAP.
 
 **Tâches effectuées:**
-- Repositionnement de la connaissance SAP.
+- Repositionnement de la connaissance SAP:
     - Rédaction des processus et mode opératoire.
     - Accompagnement des filiales lors du déploiement en tant que key user SAP, MM, FI, et Bi4.
     - Montée de version sous BusinessObjects 4.0 (Bi4).
 
- - Rédaction du cahier des charges.
+ - Rédaction du cahier des charges:
     - Spécification fonctionnelle.
     - Recettage, vérification de la conformité des bases de données.
     - Refus du livrable.
-    - Conception et développement d’un dispositif de création et de suivi de budget.
 
- - Etudes et spécification utilisateur.
+- Conception et développement d’un dispositif de création et de suivi de budget:
+    - Etudes et spécification utilisateur.
     - Etat de l’art: identification des outils/base de données existantes.
     - Cahier des charges: Listing des outils à créer et méthodes à employer.
     - Recueil des inputs budgets avec les clients internes.
     - Finalisation et livraison au département finance.
     - Intégration des données via outil au sein de l’ERP.
     - Rédaction d’un mode d’emploi pour utilisateur.
-    - Automatisation de la communication entre Procurement et fournisseur.
 
-- Réduction délais de traitement.
+- Automatisation de la communication entre Procurement et fournisseur:
+    - Réduction délais de traitement.
     - Forte diminution du taux d’erreur.
     - Normalisation des échanges fournisseurs / fonction achat.
     - Tri automatisé par croisement de données.
     - Création d’une fonctionnalité sous Outlook via VBA.
-    - Développement d’une WEBAPP pour permettre aux fonctions métiers d’effectuer directement des demandes d’achats via un portail WEB (FIORI).
 
-- Rédaction du cahier des charges.
+- Développement d’une WEBAPP pour permettre aux fonctions métiers d’effectuer directement des demandes d’achats via un portail WEB (FIORI):
+    - Rédaction du cahier des charges.
     - Recettage.
     - Rédaction de « modus operandi ».
     - Conduite du changement.
     - Périmètre pilote et déploiement sur le reste du groupe.
 
-- Déploiement d’un Flux EDI sur le périmètre Travel.
+- Déploiement d’un Flux EDI sur le périmètre Travel:
     - Recueil du besoin.
     - Accompagnement en tant que key user SAP.
     - Recettage.
     - Amélioration continue des processus.
 
-- Normalisation des Flux fournisseur / comptabilité / achat.
+- Normalisation des Flux fournisseur / comptabilité / achat:
     - Normalisation des bases de données.
     - Réduction délais de traitement et taux d’erreur.
     - Rédaction et mise-à-jour de processus.

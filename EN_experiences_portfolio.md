@@ -1,8 +1,9 @@
+
 ------------------------------------------------------------------------
 
-**LBS**
-**PMO / Software Engineer**
-*C++ | C | Rust | Ruby | Python*
+**LBS**  
+**PMO / Software Engineer**  
+*C++ | C | Rust | Ruby | Python*  
 
 ------------------------------------------------------------------------
 
@@ -57,6 +58,18 @@ Feb 2013 - May 2013 (4 months)
 **Salorges Enchère**  
 *Auction House Employee*  
 Aug 2012 - Jan 2013 (6 months)  
+
+**Self Employed**  
+*Online shop & auction house*  
+mar 2011 - jul 2012 (1 year and 5 months)  
+
+**Administrative Assistant**  
+*Auction House Employee*  
+feb 2010 - Jan 2011 (1 year and 1 month)  
+
+**Salesman**  
+*Auction House Employee*  
+nov 2010 - Jan 2010 (3 months)  
 
 ------------------------------------------------------------------------
 
@@ -229,7 +242,7 @@ Propulsive System Design Office (600 people, €120M)
 - Conducted load and feasibility analysis.
 
 **Technical Environment:**
-Pack Office, CRM, BTP
+Excel, BI4, PowerBI, HTML, VBA, SharePoint, Visio, Pack Office
 
 #### Project Manager Assistant
 
@@ -273,31 +286,31 @@ General services / Real estate / Travel / IT - SAP MM Key user & support
 - Repositioning SAP knowledge:
     - Writing processes and operating procedures.
     - Supporting subsidiaries during deployment as SAP key user for MM, FI, and Bi4.
-    - Upgrading to BusinessObjects 4.0 (Bi4).
 
-- Writing specifications:
+- Upgrading to BusinessObjects 4.0 (Bi4):
+    - Writing specifications.
     - Functional specifications.
     - Acceptance testing, verification of database conformity.
     - Refusal of the deliverable.
-    - Designing and developing a system for budget creation and tracking.
 
-- User studies and specifications:
+- Designing and developing a system for budget creation and tracking:
+    - User studies and specifications.
     - State of the art: identifying existing tools/databases.
     - Specifications: Listing tools to be created and methods to be used.
     - Gathering budget inputs from internal clients.
     - Finalizing and delivering to the finance department.
     - Integrating data via tool into the ERP.
     - Writing a user manual.
-    - Automating communication between Procurement and suppliers.
 
-- Reducing processing times:
+- Automating communication between Procurement and suppliers:
+    - Reducing processing times.
     - Significant reduction in error rates.
     - Standardizing supplier/procurement function exchanges.
     - Automated sorting through data cross-referencing.
     - Creating an Outlook functionality via VBA.
-    - Developing a WEBAPP to allow business functions to directly make purchase requests via a WEB portal (FIORI).
 
-- Writing specifications:
+- Developing a WEBAPP to allow business functions to directly make purchase requests via a WEB portal (FIORI):
+    - Writing specifications.
     - Acceptance testing.
     - Writing "modus operandi".
     - Change management.
