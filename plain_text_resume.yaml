@@ -1,0 +1,242 @@
+personal_information:
+  name: "Belus"
+  surname: "Lorris"
+  date_of_birth: "30/08/1989"
+  country: "France"
+  city: "ST-JEAN-DE-MONTS"
+  address: "14, chemin de la courroie"
+  zip_code: "85160"
+  phone_prefix: "+33"
+  phone: "651030234"
+  email: "lorris.belus@icloud.com"
+  github: "https://github.com/Lbelus"
+  linkedin: "https://www.linkedin.com/in/lbelus"
+
+education_details:
+  - education_level: "Master of Science"
+    institution: "Woolf University, Qwasar College"
+    field_of_study: "Computer Science"
+    final_evaluation_grade: "Eu"
+    start_date: "2023"
+    year_of_completion: "2024"
+  - education_level: "Master 1"
+    institution: "Groupe IGS - ESAM - Paris"
+    field_of_study: "Business Management and Development"
+    final_evaluation_grade: "[Your Final Evaluation Grade]"
+    start_date: "2017"
+    year_of_completion: "2018"
+  - education_level: "Master 2"
+    institution: "INSEEC - Bordeaux"
+    field_of_study: "Project Management & Business Engineering"
+    final_evaluation_grade: "[Your Final Evaluation Grade]"
+    start_date: "2018"
+    year_of_completion: "2019"
+
+experience_details:
+  - position: "WEB3 Developer"
+    company: "Independent Consultant"
+    employment_period: "Apr 2024 - Sep 2024"
+    location: "France, Paris"
+    industry: "Tech"
+    key_responsibilities:
+      - responsibility_1: "Develop smart contracts for Web3 solutions."
+      - responsibility_2: "Provide consultancy on blockchain technologies."
+      - responsibility_3: "Build and optimize decentralized apps (dApps)."
+    skills_acquired:
+      - "Smart Contracts"
+      - "Web3"
+      - "Rust"
+  
+  - position: "Teacher's Assistant in Software Engineering"
+    company: "Qwasar Silicon Valley"
+    employment_period: "May 2022 - Apr 2024"
+    location: "San Francisco, Remote"
+    industry: "Education"
+    key_responsibilities:
+      - responsibility_1: "Assisted students with software engineering projects."
+      - responsibility_2: "Provided technical guidance and mentoring."
+      - responsibility_3: "Graded assignments and led group study sessions."
+    skills_acquired:
+      - "Mentoring"
+      - "C/C++ Programming"
+      - "Project Management"
+
+  - position: "Independent Consultant"
+    company: "RHAPSODY - PORTAGE SALARIAL"
+    employment_period: "Oct 2022 - Dec 2022"
+    location: "France, Remote"
+    industry: "Consulting"
+    key_responsibilities:
+      - responsibility_1: "Consulted on project management tools."
+      - responsibility_2: "Managed independent client relationships."
+      - responsibility_3: "Provided technical guidance."
+    skills_acquired:
+      - "Project Management"
+      - "Consulting"
+      - "Client Relations"
+
+  - position: "Project Management Consultant - PMO"
+    company: "AMARIS ENERGIE"
+    employment_period: "Dec 2021 - May 2022"
+    location: "France, Normandy"
+    industry: "Energy"
+    key_responsibilities:
+      - responsibility_1: "Managed large energy projects."
+      - responsibility_2: "Oversaw budget and timelines."
+      - responsibility_3: "Collaborated with cross-functional teams."
+    skills_acquired:
+      - "PMO"
+      - "Budgeting"
+      - "Team Management"
+
+  - position: "Entrepreneur"
+    company: "CFPC"
+    employment_period: "Jan 2021 - Sep 2021"
+    location: "France, Normandy"
+    industry: "Entrepreneurship"
+    key_responsibilities:
+      - responsibility_1: "Launched and managed an entrepreneurial venture."
+      - responsibility_2: "Developed business plans and strategies."
+      - responsibility_3: "Handled all business operations."
+    skills_acquired:
+      - "Entrepreneurship"
+      - "Business Development"
+      - "Strategy"
+
+  - position: "Project Management Consultant - PMO"
+    company: "SCALIAN for SAFRAN AIRCRAFT ENGINES"
+    employment_period: "Apr 2019 - Nov 2019"
+    location: "France, Paris"
+    industry: "Aerospace"
+    key_responsibilities:
+      - responsibility_1: "Consulted on aircraft engine projects."
+      - responsibility_2: "Oversaw timelines and project execution."
+      - responsibility_3: "Collaborated with engineering teams."
+    skills_acquired:
+      - "PMO"
+      - "Aerospace"
+      - "Team Collaboration"
+
+  - position: "Project Manager Assistant"
+    company: "ALTEN SA & subsidiaries"
+    employment_period: "Aug 2017 - Jun 2018"
+    location: "France, Paris"
+    industry: "Consulting"
+    key_responsibilities:
+      - responsibility_1: "Assisted in managing large consulting projects."
+      - responsibility_2: "Supported in project budgeting."
+      - responsibility_3: "Collaborated with cross-functional teams."
+    skills_acquired:
+      - "Project Management"
+      - "Budgeting"
+      - "Team Coordination"
+
+  - position: "Purchasing Administrator, Tools & Processes"
+    company: "ALTEN SA & subsidiaries"
+    employment_period: "Nov 2013 - Aug 2017"
+    location: "France, Paris"
+    industry: "Consulting"
+    key_responsibilities:
+      - responsibility_1: "Managed purchasing tools and processes."
+      - responsibility_2: "Optimized purchasing operations."
+      - responsibility_3: "Collaborated with various departments."
+    skills_acquired:
+      - "Purchasing Management"
+      - "Process Optimization"
+      - "Cross-departmental Collaboration"
+
+  - position: "Planner Assistant"
+    company: "Raffinerie Total de Donges via Expectra"
+    employment_period: "Feb 2013 - May 2013"
+    location: "France, Donges"
+    industry: "Energy"
+    key_responsibilities:
+      - responsibility_1: "Supported refinery project planning."
+      - responsibility_2: "Assisted in timeline management."
+      - responsibility_3: "Collaborated with engineers on projects."
+    skills_acquired:
+      - "Planning"
+      - "Energy Sector"
+      - "Teamwork"
+
+  - position: "Auction House Employee"
+    company: "Salorges Enchère"
+    employment_period: "Aug 2012 - Jan 2013"
+    location: "France, Nantes"
+    industry: "Auction"
+    key_responsibilities:
+      - responsibility_1: "Acted as a business introducer."
+      - responsibility_2: "Managed supply planning."
+      - responsibility_3: "Handled customer and expert relations."
+    skills_acquired:
+      - "Customer Relations"
+      - "Supply Planning"
+      - "Business Development"
+
+projects:
+  - name: "Custom Heap Smart Contract"
+    description: "Building an eBPF-compliant memory allocator in C, binding it to Rust with FFI, and managing memory efficiently."
+    link: "https://github.com/Lbelus/sdmm"
+  - name: "Portfolio C/C++"
+    description: "Qwasar master projects portfolio / redis, FTP, abstract VM, malloc, curl, zsh, BFS, calculator, dynamic programing, linkedlist based cli, readline, tar, ls, printf. 60+projects and exercises"
+    link: "https://github.com/Lbelus/my_qwasar_lib"
+  - name: "Web3 project"
+    description: "Tech stack: TypeScript, Next.js, NextAuth, Firebase, IPFS, Solana Anchor (Rust). Developed and designed an innovative service for document authentication using Solana blockchain and smart contracts. Engineered a scalable system design to minimize infrastructure requirements. Implemented API routes to manage interactions between client, database, and backend. Built a backend system utilizing a queue for document uploads to IPFS and registration on the blockchain via custom smart contracts."
+    link: "https://www.papabull.io"
+
+certifications:
+  - name: "PMI"
+    description: "CAPM"
+  - name: "Software Engineering"
+    description: "Completion of 61 projects covering fundamental concepts of software engineering, completed at Silicon Valley standards (12/2023)"
+  - name: "Introduction to Software Engineering || C programming level II"
+    description: "Completion of 25 projects covering software engineering in C programming level II, completed at Silicon Valley standards (02/2023)"
+  - name: "Introduction to Software Engineering || C programming level I"
+    description: "Completion of 16 projects covering software engineering in C programming level I, completed at Silicon Valley standards (08/2022)"
+  - name: "Introduction to Fullstack Development"
+    description: "Completion of 15 projects covering fullstack engineering in JavaScript programming, completed at Silicon Valley standards (05/2022)"
+
+languages:
+  - language: "French"
+    proficiency: "Native"
+  - language: "English"
+    proficiency: "Fluent"
+
+availability:
+  notice_period: "Immediate"
+
+salary_expectations:
+  salary_range_usd: "40000 - 180000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He/Him"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "White"
+
+legal_authorization:
+  eu_work_authorization: "Yes"
+  us_work_authorization: "No"
+  requires_us_visa: "Yes"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "Yes"
+  legally_allowed_to_work_in_us: "No"
+  requires_eu_sponsorship: "No"
+  canada_work_authorization: "Yes"
+  requires_canada_visa: "Yes"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "Yes"
+  uk_work_authorization: "No"
+  requires_uk_visa: "Yes"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "Yes"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
