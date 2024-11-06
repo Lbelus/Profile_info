@@ -179,3 +179,26 @@ This project implements a custom `printf` function in C, handling variable argum
 link : https://github.com/Lbelus/my_qwasar_lib/tree/main/c/my_printf_70028_vfhfqu
 
 ---
+
+**Pythia Test Environment for Delphi Extractor (prototype)**
+
+Pythia is a Docker-based testing environment developed to support the Delphi extractor project. It sets up a Redis-backed HTTP server network with load balancing to facilitate distributed data processing and testing.
+
+### Key Features:
+- **Dockerized Environment**: Utilizes Docker to set up a Redis server, Redis clients, and an Nginx load balancer on a shared network.
+- **Redis-backed HTTP Server**: Multiple HTTP servers interact with Redis for data storage and retrieval, enabling operations like `set`, `get`, `lpush`, and `hmset`.
+- **Load Balancing**: Nginx distributes incoming requests to HTTP servers, ensuring efficient resource usage.
+- **Testing and Documentation**: Integrates Google Test (gtest) for testing Redis clients and supports extensive GET/POST requests through Crow HTTP library.
+
+### Installation and Usage:
+1. **Setup Docker Network and Containers**:
+   - Create a Docker network and start Redis, HTTP server, and load balancer containers.
+   - Run `cmake` and `make` to compile the Redis client.
+2. **Make API Requests**:
+   - Use `curl` commands through the load balancer to make requests, such as setting (`/set`), retrieving (`/get`), and managing lists (`/lpush`, `rpop`).
+3. **Testing**:
+   - Implement tests using Google Test to verify functionality.
+
+### Keywords:
+- Docker environment, Redis client, Nginx load balancer, HTTP server, Crow HTTP, library Google Test (gtest), Distributed testing, API request handling.
+---
