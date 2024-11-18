@@ -235,16 +235,7 @@ Pythia is a Docker-based testing environment developed to support the Delphi ext
 - Easily extensible through modular class design.
 
 ### Keywords:
-- **SQLite Simulator**  
-- **Ruby**  
-- **Command-Line Interface (CLI)**  
-- **CRUD Operations**  
-- **SQL-like Queries**  
-- **Inverted Index**  
-- **Database System**  
-- **Data Retrieval**  
-- **MySqlite**  
-- **Command Design Pattern**  
+- Command-Line Interface (CLI, CRUD Operations, SQL-like Queries, Inverted Index, Database System, Data Retrieval, MySqlite, Command Design Pattern  
 
 **Developers**: Lorris Belus (Developer), Igor Mirsalikhov (Research Assistant)
 
