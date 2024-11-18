@@ -179,3 +179,41 @@ Ce projet implémente une fonction `printf` personnalisée en C, gérant des arg
 lien : https://github.com/Lbelus/my_qwasar_lib/tree/main/c/my_printf_70028_vfhfqu
 
 ---
+
+## **MySqlite - Un SQLite basé sur Ruby**
+
+**MySqlite** est une implémentation légère d'un système de base de données similaire à SQLite, écrite en Ruby. Elle prend en charge les opérations CRUD, les requêtes de style SQL et la récupération efficace des données grâce à un index inversé. Le système est construit autour d'un **command design pattern** et offre une approche basée sur des classes pour les interactions avec la base de données.
+
+### Fonctionnalités principales :
+- **Classes principales** :
+  - **MySqliteRequest** : Combine les fonctionnalités de récupération et de manipulation pour exécuter des requêtes complexes.
+  - **MySqliteGetter** : Gère les opérations SELECT avec prise en charge des clauses WHERE, JOIN et ORDER.
+  - **MySqliteSetter** : Prend en charge les opérations INSERT, UPDATE et DELETE.
+  - **InvertedIndex** : Optimise les recherches grâce à une structure de type dictionnaire qui associe des valeurs à des identifiants correspondants.
+- **SQL-like CLI** : Fournit une interface en ligne de commande interactive pour des requêtes de style SQL.
+- **Recherche efficace** : Implémente un index inversé pour réduire les scans de table complets et accélérer la récupération des données.
+
+### Utilisation :
+1. **Installation** :
+   - Clonez le dépôt : `git clone git@github.com:Lbelus/my_sqlite.git`.
+   - Installez le gem localement ou via un serveur gem local.
+   - Lancez `my_sqlite` depuis n'importe quel répertoire pour démarrer le CLI.
+
+2. **Requêtes CLI** :
+   - Exemple : `SELECT * FROM nba_player_data.csv WHERE birth_state='Indiana';`
+   - Prend en charge une syntaxe de type SQL pour les clauses SELECT, INSERT, UPDATE, DELETE, JOIN et WHERE.
+
+3. **Tests** :
+   - Lancez les tests automatisés avec `rake` depuis le répertoire du projet.
+
+### Points forts :
+- Prend en charge les requêtes de type SQL avec certaines limitations : une clause WHERE et une clause JOIN par requête.
+- Optimisé pour des opérations CRUD efficaces grâce à un index inversé.
+- Facilement extensible grâce à une conception modulaire des classes.
+
+### Mots-clés :
+- Command-Line Interface (CLI), CRUD Operations, SQL-like Queries, Inverted Index, Database System, Data Retrieval, MySqlite, Command Design Pattern  
+
+**Développeurs** : Lorris Belus (Développeur), Igor Mirsalikhov (Assistant de recherche)
+
+---
