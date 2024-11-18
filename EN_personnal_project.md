@@ -203,7 +203,7 @@ Pythia is a Docker-based testing environment developed to support the Delphi ext
 - Docker environment, Redis client, Nginx load balancer, HTTP server, Crow HTTP, library Google Test (gtest), Distributed testing, API request handling.
 ---
 
-## **MySqlite - A Ruby-Based SQLite Simulator**
+## **MySqlite - A Ruby-Based SQLite**
 
 **MySqlite** is a lightweight Ruby implementation of an SQLite-like database system. It supports CRUD operations, SQL-like queries, and efficient data retrieval through an inverted index. The system is built around a command design pattern and provides a class-based approach for database interactions.
 
