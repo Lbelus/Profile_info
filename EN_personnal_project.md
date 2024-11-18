@@ -180,7 +180,7 @@ link : https://github.com/Lbelus/my_qwasar_lib/tree/main/c/my_printf_70028_vfhfq
 
 ---
 
-**Pythia Test Environment for Delphi Extractor (prototype)**
+## **Pythia Test Environment for Delphi Extractor (prototype)**
 
 Pythia is a Docker-based testing environment developed to support the Delphi extractor project. It sets up a Redis-backed HTTP server network with load balancing to facilitate distributed data processing and testing.
 
@@ -203,7 +203,7 @@ Pythia is a Docker-based testing environment developed to support the Delphi ext
 - Docker environment, Redis client, Nginx load balancer, HTTP server, Crow HTTP, library Google Test (gtest), Distributed testing, API request handling.
 ---
 
-**MySqlite - A Ruby-Based SQLite Simulator**
+## **MySqlite - A Ruby-Based SQLite Simulator**
 
 **MySqlite** is a lightweight Ruby implementation of an SQLite-like database system. It supports CRUD operations, SQL-like queries, and efficient data retrieval through an inverted index. The system is built around a command design pattern and provides a class-based approach for database interactions.
 
