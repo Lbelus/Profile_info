@@ -202,3 +202,50 @@ Pythia is a Docker-based testing environment developed to support the Delphi ext
 ### Keywords:
 - Docker environment, Redis client, Nginx load balancer, HTTP server, Crow HTTP, library Google Test (gtest), Distributed testing, API request handling.
 ---
+
+**MySqlite - A Ruby-Based SQLite Simulator**
+
+**MySqlite** is a lightweight Ruby implementation of an SQLite-like database system. It supports CRUD operations, SQL-like queries, and efficient data retrieval through an inverted index. The system is built around a command design pattern and provides a class-based approach for database interactions.
+
+### Key Features:
+- **Core Classes**:
+  - **MySqliteRequest**: Combines retrieval and manipulation functionalities to execute complex queries.
+  - **MySqliteGetter**: Handles SELECT operations with support for WHERE, JOIN, and ORDER clauses.
+  - **MySqliteSetter**: Supports INSERT, UPDATE, and DELETE operations.
+  - **InvertedIndex**: Optimizes searches with a dictionary-like structure mapping values to associated IDs.
+- **SQL-like CLI**: Provides an interactive command-line interface for SQL-style queries.
+- **Efficient Search**: Implements an inverted index to reduce full-table scans and speed up data retrieval.
+
+### Usage:
+1. **Installation**:
+   - Clone the repository: `git clone git@github.com:Lbelus/my_sqlite.git`.
+   - Install the gem locally or via a local gem server.
+   - Run `my_sqlite` from any directory to launch the CLI.
+
+2. **CLI Queries**:
+   - Example: `SELECT * FROM nba_player_data.csv WHERE birth_state='Indiana';`
+   - Supports SQL-like syntax for SELECT, INSERT, UPDATE, DELETE, JOIN, and WHERE clauses.
+
+3. **Testing**:
+   - Run automated tests with `rake` from the project directory.
+
+### Highlights:
+- Supports SQL-like queries with limitations: one WHERE and one JOIN condition per query.
+- Optimized for efficient CRUD operations using an inverted index.
+- Easily extensible through modular class design.
+
+### Keywords:
+- **SQLite Simulator**  
+- **Ruby**  
+- **Command-Line Interface (CLI)**  
+- **CRUD Operations**  
+- **SQL-like Queries**  
+- **Inverted Index**  
+- **Database System**  
+- **Data Retrieval**  
+- **MySqlite**  
+- **Command Design Pattern**  
+
+**Developers**: Lorris Belus (Developer), Igor Mirsalikhov (Research Assistant)
+
+
