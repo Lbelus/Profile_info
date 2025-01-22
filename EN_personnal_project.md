@@ -239,4 +239,23 @@ Pythia is a Docker-based testing environment developed to support the Delphi ext
 
 **Developers**: Lorris Belus (Developer), Igor Mirsalikhov (Research Assistant)
 
+---
+
+# mTLS Distant Browser
+
+The mTLS Distant Browser project offers a secure containerized Firefox browser with Docker, Nginx, and advanced network features like Shadowsocks, BadVPN, and Tor. Secured with mutual TLS (mTLS), it ensures only authenticated clients can access the browser, providing safe handling of untrusted links and enhanced privacy.
+
+## Key Features:
+- **mTLS Authentication**: Secures client-server communication.
+- **Containerized Browser**: Deploys Firefox in a Docker container.
+- **Privacy Tools**: Integrates Shadowsocks, BadVPN, and Tor for enhanced anonymity and traffic obfuscation.
+- **Automated Certificate Management**: Creates server and client certificates.
+- **Nginx Proxy**: Manages SSL and proxies browser traffic.
+- **Restricted Access**: Configures UFW to limit ports to secure access only.
+
+## Usage:
+Run the script to set up Docker, Nginx, Shadowsocks, BadVPN, and Tor. Install the generated client `.p12` certificate, connect to `https://<server-ip>`, and enjoy a secure, private browsing experience.
+
+**Keywords**: mTLS, Docker, Nginx, Shadowsocks, BadVPN, Tor, secure browser, SSL, containerization
+
 
