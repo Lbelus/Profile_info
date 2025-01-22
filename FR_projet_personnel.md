@@ -217,3 +217,23 @@ lien : https://github.com/Lbelus/my_qwasar_lib/tree/main/c/my_printf_70028_vfhfq
 **Développeurs** : Lorris Belus (Développeur), Igor Mirsalikhov (Assistant de recherche)
 
 ---
+
+# Navigateur Distant avec mTLS
+
+Le projet **Navigateur Distant avec mTLS** propose un navigateur Firefox sécurisé et conteneurisé, utilisant Docker, Nginx, ainsi que des fonctionnalités réseau avancées comme Shadowsocks, BadVPN et Tor. Sécurisé avec le mTLS (mutual TLS), il garantit que seuls les clients authentifiés peuvent accéder au navigateur, offrant une gestion sûre des liens non fiables et une confidentialité renforcée.
+
+## Fonctionnalités Principales :
+- **Authentification mTLS** : Sécurise la communication entre le client et le serveur.
+- **Navigateur Conteneurisé** : Déploie Firefox dans un conteneur Docker.
+- **Outils de Confidentialité** : Intègre Shadowsocks, BadVPN et Tor pour une anonymisation et une obfuscation du trafic.
+- **Gestion Automatisée des Certificats** : Génère automatiquement les certificats serveur et client.
+- **Proxy Nginx** : Gère les certificats SSL et redirige le trafic du navigateur.
+- **Accès Restreint** : Configure UFW pour limiter les ports aux connexions sécurisées uniquement.
+
+## Utilisation :
+Exécutez le script pour installer Docker, Nginx, Shadowsocks, BadVPN et Tor. Installez le certificat client `.p12` généré, connectez-vous à `https://<adresse-ip-serveur>` et profitez d’une expérience de navigation sécurisée et privée.
+
+**Mots-clés** : mTLS, Docker, Nginx, Shadowsocks, BadVPN, Tor, navigateur sécurisé, SSL, conteneurisation
+
+---
+
