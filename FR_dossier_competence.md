@@ -3,7 +3,7 @@
 
 **LBS**  
 **PMO / Software Engineer**  
-*C++ | C | Rust | Ruby | Python*
+*C++ | C *
 
 ---
 
@@ -71,17 +71,17 @@ Novembre 2009 à Janvier 2010 (6 mois)
 
 ### Compétences
 
-**Programmation et Développement Avancés:**  
-Compétent dans des langages tels que C++, C, Rust, ASM, Ruby, Python, JavaScript et TypeScript. Développement de projets complexes démontrant une compréhension approfondie de la programmation bas niveau et des systèmes d'exploitation, y compris des projets personnels comme un client/serveur Redis, un serveur FTP, des implémentations custom d'utilitaires (malloc, curl, zsh, readline, tar, ls), et une version de sqlite basée sur Ruby.
-
-**Maîtrise Complète des Outils et Technologies:**  
-Compétent dans l'utilisation d'une large gamme d'outils et de technologies, y compris CMake, Make, Google Test, Docker, et Nginx pour le développement et le déploiement. Expert dans les modules SAP (PS, MM, FI), Business Object 4.0, et PowerBI avec DAX, pour gérer données et projets.
-
 **Gestion de Projets et Optimisation des Processus:**  
 Expérimenté dans l'utilisation de Visio, MSP, Planisware, PowerApps, SharePoint et Microsoft Flow pour la gestion de projets et l'optimisation des processus.
 
 **Gestion de Projets et Analyse Financière:**  
 Expertise dans la direction d'équipes pour création et suivi de budgets, création et maintenance d'outils financiers avancés utilisant VBA et Power BI, et réaliser des analyses financières complètes incluant EVM, analyse de charge/capacité, et analyses de variance.
+
+**Programmation et Développement Avancés:**  
+Compétent dans des langages tels que C++, C, Rust, ASM, Ruby, Python, JavaScript et TypeScript. Développement de projets complexes démontrant une compréhension approfondie de la programmation bas niveau et des systèmes d'exploitation, y compris des projets personnels comme un client/serveur Redis, un serveur FTP, des implémentations custom d'utilitaires (malloc, curl, zsh, readline, tar, ls), et une version de sqlite basée sur Ruby.
+
+**Maîtrise Complète des Outils et Technologies:**  
+Compétent dans l'utilisation d'une large gamme d'outils et de technologies, y compris CMake, Make, Google Test, Docker, et Nginx pour le développement et le déploiement. Expert dans les modules SAP (PS, MM, FI), Business Object 4.0, et PowerBI avec DAX, pour gérer données et projets.
 
 ---
 
