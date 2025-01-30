@@ -3,7 +3,7 @@
 
 **LBS**  
 **PMO / Software Engineer**  
-*C++ | C *
+**C++ | C **
 
 ---
 
